@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:RobertCGouge/hackernews-node.git",
   "author": "Robert C. Gouge <robert.c.gouge@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.1"
+  }
 }
